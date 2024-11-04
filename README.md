@@ -3,13 +3,20 @@ To access and run this project To-Do List code:
 
 Copy the Code: Highlight and copy the code.
 Choose an Environment:-
+
 Use an online compiler.
+
 Or, set up a local environment (e.g., Code::Blocks, Visual Studio, or g++ on your command line).
+
 Create a File: Create a new file (e.g., todo_list.cpp).
+
 Paste the Code: Paste the copied code into the file.
+
 Compile:
+
 Command line: g++ -o todo_list todo_list.cpp
-Run:
+
+Run
 Command line: ./todo_list
 Interact: Follow the on-screen menu to manage tasks.
 
